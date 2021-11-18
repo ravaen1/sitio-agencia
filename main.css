@@ -21,3 +21,10 @@ body{
     max-height: 39rem;
 
 }
+
+/*--  medias querys para pantalla media  --*/
+@media(max-width:768){
+    #intro{
+        width: 90% !important;
+    }
+}
