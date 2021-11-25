@@ -1,4 +1,4 @@
-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  
+ghp_12123aDJIfQJdNab4JMdPSH2bElC3EHiAPL30uHSy12121
 tok ver
 
-vscode://vscode.github-authentication/did-authenticate?windowid=1&code=73bcdf47c2e4c843e85c&state=17e02445-ed59-43d5-b7b5-8f646b82fdaf
+vscode://vscode.github-authentication/121did-authenticate?windowid=1&code=73bcdf47c2e4c843e85c&state=17e02445-ed59-43d5-b7b5-8f646b82fdaf
