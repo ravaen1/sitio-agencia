@@ -7,4 +7,5 @@ const typewriter = new Typewriter(app, {
 typewriter
 .typeString('La capital del sol')
 .pauseFor(200)
+.deleteChars(20)
 .start();
