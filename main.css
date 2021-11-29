@@ -27,15 +27,20 @@ body{
     #intro, #equipo {
         width: 90% !important;
     }
-}
 
-#equipo p{
+
+ #equipo p{
     display: none;
-}
+ }
 
-.servicio-fila{
+ .servicio-fila{
     width: 100% !important;
     text-align: center;
+ }
+
+ #bg-contacto {
+    top: -110px;
+ }
 }
 
 @media(max-width: 576px){
@@ -99,3 +104,31 @@ body{
 #numeros-local p{
     margin: 0;
 }
+
+/* contacto   */
+#bg-contacto {
+    position: relative;
+    top: -130px;
+}
+
+#seccion-contacto{
+    background-color: #1b2a4e;
+    min-height: 500px;
+    position: relative;
+}
+
+/* formulario   */
+#contenedor-contacto{
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background: #fbfafa;
+    border-radius: 5px;
+    min-height: 500px;
+}
+
+#titulo-formulario{
+    color: #f3f3f3;
+}
+
